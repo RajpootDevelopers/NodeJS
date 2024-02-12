@@ -1,0 +1,15 @@
+{
+  "name": "give-me-a-joke",
+  "version": "1.0.0",
+  "description": "This is Project of backend for delta class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AFAQ RAJPOOT",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
